@@ -1,4 +1,4 @@
-This repository is a small modification of the code from Constrained CNN
+This repository is a modification of the code from Constrained CNN
 
 The original code can be found in the MISL lab's repository here:
 https://gitlab.com/MISLgit/constrained-conv-TIFS2018
